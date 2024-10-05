@@ -73,5 +73,7 @@ sklearn to demonstrate Information Retrieval using the Vector Space Model.
     print("The highest rank cosine score is:", highest_rank_score)
 
 ### Output:
+![Screenshot 2024-10-05 082238](https://github.com/user-attachments/assets/0e136902-9e07-41ac-b94c-620bac8aa587)
 
 ### Result:
+This code was executed successfully.
